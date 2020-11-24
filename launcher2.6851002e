@@ -1,0 +1,10 @@
+mkdir: cannot create directory ‘/home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/1.1’: File exists
+mkdir: cannot create directory ‘/home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/1.2’: File exists
+
+real	1349m37.735s
+user	1348m15.956s
+sys	1m11.697s
+
+real	1370m49.053s
+user	1369m25.400s
+sys	1m12.575s

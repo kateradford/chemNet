@@ -1,0 +1,97 @@
+mkdir: cannot create directory ‘/home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/1.1’: File exists
+cp: target ‘../1.1’ is not a directory
+/tmp/slurmd/job6731702/slurm_script: line 50: cd: /home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/1.1: Not a directory
+mkdir: cannot create directory ‘/home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/1.2’: File exists
+cp: target ‘../1.2’ is not a directory
+/tmp/slurmd/job6731702/slurm_script: line 50: cd: /home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/1.2: Not a directory
+mkdir: cannot create directory ‘/home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/1.3’: File exists
+cp: target ‘../1.3’ is not a directory
+/tmp/slurmd/job6731702/slurm_script: line 50: cd: /home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/1.3: Not a directory
+mkdir: cannot create directory ‘/home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/1.4’: File exists
+cp: target ‘../1.4’ is not a directory
+/tmp/slurmd/job6731702/slurm_script: line 50: cd: /home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/1.4: Not a directory
+mkdir: cannot create directory ‘/home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/2.1’: File exists
+cp: target ‘../2.1’ is not a directory
+/tmp/slurmd/job6731702/slurm_script: line 50: cd: /home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/2.1: Not a directory
+mkdir: cannot create directory ‘/home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/2.2’: File exists
+cp: target ‘../2.2’ is not a directory
+/tmp/slurmd/job6731702/slurm_script: line 50: cd: /home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/2.2: Not a directory
+mkdir: cannot create directory ‘/home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/2.3’: File exists
+
+real	0m0.076s
+user	0m0.058s
+sys	0m0.010s
+cp: target ‘../2.3’ is not a directory
+/tmp/slurmd/job6731702/slurm_script: line 50: cd: /home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/2.3: Not a directory
+mkdir: cannot create directory ‘/home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/2.4’: File exists
+
+real	0m0.075s
+user	0m0.056s
+sys	0m0.013s
+cp: target ‘../2.4’ is not a directory
+/tmp/slurmd/job6731702/slurm_script: line 50: cd: /home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/2.4: Not a directory
+mkdir: cannot create directory ‘/home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/3.1’: File exists
+
+real	0m0.077s
+user	0m0.057s
+sys	0m0.011s
+cp: target ‘../3.1’ is not a directory
+/tmp/slurmd/job6731702/slurm_script: line 50: cd: /home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/3.1: Not a directory
+mkdir: cannot create directory ‘/home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/3.2’: File exists
+
+real	0m0.075s
+user	0m0.055s
+sys	0m0.013s
+cp: target ‘../3.2’ is not a directory
+/tmp/slurmd/job6731702/slurm_script: line 50: cd: /home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/3.2: Not a directory
+mkdir: cannot create directory ‘/home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/3.3’: File exists
+
+real	0m0.075s
+user	0m0.054s
+sys	0m0.015s
+cp: target ‘../3.3’ is not a directory
+/tmp/slurmd/job6731702/slurm_script: line 50: cd: /home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/3.3: Not a directory
+mkdir: cannot create directory ‘/home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/3.4’: File exists
+
+real	0m0.076s
+user	0m0.062s
+sys	0m0.007s
+cp: target ‘../3.4’ is not a directory
+/tmp/slurmd/job6731702/slurm_script: line 50: cd: /home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/3.4: Not a directory
+mkdir: cannot create directory ‘/home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/4.1’: File exists
+
+real	0m0.075s
+user	0m0.060s
+sys	0m0.009s
+cp: target ‘../4.1’ is not a directory
+/tmp/slurmd/job6731702/slurm_script: line 50: cd: /home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/4.1: Not a directory
+mkdir: cannot create directory ‘/home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/4.2’: File exists
+
+real	0m0.075s
+user	0m0.060s
+sys	0m0.009s
+cp: target ‘../4.2’ is not a directory
+/tmp/slurmd/job6731702/slurm_script: line 50: cd: /home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/4.2: Not a directory
+mkdir: cannot create directory ‘/home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/4.3’: File exists
+cp: target ‘../4.3’ is not a directory
+/tmp/slurmd/job6731702/slurm_script: line 50: cd: /home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/4.3: Not a directory
+mkdir: cannot create directory ‘/home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/4.4’: File exists
+cp: target ‘../4.4’ is not a directory
+/tmp/slurmd/job6731702/slurm_script: line 50: cd: /home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/4.4: Not a directory
+
+real	54m40.195s
+user	54m39.457s
+sys	0m0.256s
+
+real	55m38.320s
+user	55m37.140s
+sys	0m0.275s
+
+real	55m52.376s
+user	55m50.380s
+sys	0m0.293s
+
+real	56m34.432s
+user	56m32.062s
+sys	0m0.279s
+slurmstepd: error: *** JOB 6731702 ON c456-083 CANCELLED AT 2020-10-30T15:00:49 DUE TO TIME LIMIT ***

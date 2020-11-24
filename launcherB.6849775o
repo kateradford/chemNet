@@ -1,0 +1,41 @@
+running test 1.1
+executing pid = 173430
+running test 1.2
+executing pid = 173431
+running test 1.3
+executing pid = 173432
+running test 1.4
+executing pid = 173433
+running test 2.1
+executing pid = 173434
+running test 2.2
+executing pid = 173435
+running test 2.3
+executing pid = 173436
+running test 2.4
+executing pid = 173437
+running test 3.1
+executing pid = 173438
+running test 3.2
+executing pid = 173439
+running test 3.3
+executing pid = 173440
+running test 3.4
+executing pid = 173441
+running test 4.1
+executing pid = 173442
+running test 4.2
+executing pid = 173443
+running test 4.3
+executing pid = 173444
+running test 4.4
+executing pid = 173445
+waiting for pid = 173430
+Solvent1 XYZ file: Atom types and/or their order do not match with the input file
+Solvent1 XYZ file: Atom types and/or their order do not match with the input file
+Solvent1 XYZ file: Atom types and/or their order do not match with the input file
+Solvent1 XYZ file: Atom types and/or their order do not match with the input file
+Solvent1 XYZ file: Atom types and/or their order do not match with the input file
+Solvent1 XYZ file: Atom types and/or their order do not match with the input file
+Solvent1 XYZ file: Atom types and/or their order do not match with the input file
+Solvent1 XYZ file: Atom types and/or their order do not match with the input file

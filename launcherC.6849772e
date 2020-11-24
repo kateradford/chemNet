@@ -1,0 +1,33 @@
+
+real	0m0.069s
+user	0m0.056s
+sys	0m0.011s
+
+real	0m0.070s
+user	0m0.057s
+sys	0m0.010s
+
+real	0m0.070s
+user	0m0.054s
+sys	0m0.013s
+
+real	0m0.069s
+user	0m0.054s
+sys	0m0.013s
+
+real	0m0.071s
+user	0m0.059s
+sys	0m0.009s
+
+real	0m0.070s
+user	0m0.056s
+sys	0m0.011s
+
+real	0m0.073s
+user	0m0.060s
+sys	0m0.009s
+
+real	0m0.071s
+user	0m0.056s
+sys	0m0.011s
+slurmstepd: error: *** JOB 6849772 ON c417-121 CANCELLED AT 2020-11-19T13:28:12 ***
