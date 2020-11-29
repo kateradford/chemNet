@@ -28,9 +28,11 @@ module load launcher
 
 mkdir /home1/07020/dtuser/work/capstone/Kate/All/ChemNetworks-2-2/test-jobs/${SLURM_JOBID}
 
+#tests
 for task in 1 2 3 4
 do
 
+#waters
 for index in {1..4}
 do
 
@@ -60,21 +62,23 @@ PIDS+=($!)
 done
 done
 
+j=0
 for pid in ${PIDS[@]}; do
-	echo "pid=${pid}"
+	echo "#$j pid=${pid}"
 	wait ${pid}
 	STATUS+=($?)
+	((j+=1))
 
 done
 
 
 i=0
 for st in ${STATUS[@]}; do
-	if [[ ${st} -ne 0 ]]; then
-        	echo "$i executed"
+	if [[ ${st} -eq 0 ]]; then
+        	echo "#$i executed"
         	echo ""
 	else
-        	echo "$i failed to execute"
+        	echo "#$i failed to execute"
 	fi
 	((i+=1))
 done
